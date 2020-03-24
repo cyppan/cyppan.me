@@ -1,0 +1,5 @@
+.DS_Store
+_dev/node_modules/
+_dev/src/node_modules/@sapper/
+_dev/yarn-error.log
+_dev/__sapper__
